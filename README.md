@@ -5,11 +5,15 @@ Data prep
  - simple exploratory analysis 
  - outlier detection (manual and isolation forest)
  - simple and multiple linear regression with hypothesis testing to fillna
+
+
 Classification models
   -logistic regression
   -K-Means
   - KNN
- Other method explored
+
+
+Other method explored
  - KNN imputer
  - GridSearchCV
  -SVM
