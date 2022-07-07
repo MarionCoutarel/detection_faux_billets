@@ -2,21 +2,27 @@
 fake banknote detection using machin learning - last project of open classroom data analyst cursus
 
 Data prep
- - simple exploratory analysis 
+
+
+- simple exploratory analysis 
  - outlier detection (manual and isolation forest)
  - simple and multiple linear regression with hypothesis testing to fillna
 
 
 Classification models
-  -logistic regression
-  -K-Means
+
+
+  - logistic regression 
+  - K-Means 
   - KNN
 
 
 Other method explored
- - KNN imputer
+
+
+- KNN imputer
  - GridSearchCV
- -SVM
+ - SVM
  - Voting classifier
- -Random Forest
+ - Random Forest
 
